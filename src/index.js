@@ -7,7 +7,7 @@ function Hello(props){
       <div>{props.title1}</div>
       <div>{props.text}</div>
       <div>{props.author}</div>
-      <div>{props.url}</div>
+      <div>{props.author}</div>
     </div>
   )
 }
